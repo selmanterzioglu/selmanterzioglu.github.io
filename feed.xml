@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Selman Terzioglu</title>
+    <link href="https://selmanterzioglu.github.io/feed.xml" rel="self" />
+    <link href="https://selmanterzioglu.github.io" />
+    <updated>2024-07-05T09:58:10+03:00</updated>
+    <author>
+        <name>selmanterzioglu</name>
+    </author>
+    <id>https://selmanterzioglu.github.io</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>selmanterzioglu</name>
+        </author>
+        <link href="https://selmanterzioglu.github.io/test.html"/>
+        <id>https://selmanterzioglu.github.io/test.html</id>
+
+        <updated>2024-07-05T09:58:10+03:00</updated>
+            <summary>
+                <![CDATA[
+                    111
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>111</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

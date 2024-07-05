@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Selman Terzioglu",
+    "description": "",
+    "home_page_url": "https://selmanterzioglu.github.io",
+    "feed_url": "https://selmanterzioglu.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "selmanterzioglu"
+    },
+    "items": [
+        {
+            "id": "https://selmanterzioglu.github.io/test.html",
+            "url": "https://selmanterzioglu.github.io/test.html",
+            "title": "test",
+            "summary": "111",
+            "content_html": "<p>111</p>",
+            "author": {
+                "name": "selmanterzioglu"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-05T09:58:10+03:00",
+            "date_modified": "2024-07-05T09:58:10+03:00"
+        }
+    ]
+}
